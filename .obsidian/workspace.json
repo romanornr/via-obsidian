@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viacoin origins.md",
+                "file": "Viacoin_History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viacoin origins"
+              "title": "Viacoin_History"
             }
           }
         ]
@@ -168,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8735460fba8153",
+  "active": "b3efc54b1319a3e8",
   "lastOpenFiles": [
-    "Viacoin Official Site.md",
-    "Viacoin origins.md",
     "Via.md",
-    "README.md"
+    "README.md",
+    "Viacoin_History.md",
+    "Viacoin Official Site.md"
   ]
 }
